@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgba(30, 35, 25, 0.968);
+}
+
+.logo1{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.main-sec{
+    margin-top: -30px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.nav-items ul{
+    font-family: "red rose";
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+    color: #fff;
+    margin-top: -30px;
+    margin-left: 100px;
+}
+
+.nav-items{
+    margin-left: 60px;
+    display: flex;
+    gap: 120px;
+}
+
+.started{
+    margin-top: -30px;
+    padding: 1em 1.5em;
+    color: #5a65;
+    border-color: #5a65;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.left-heading{
+    display: flex;
+    gap: 80px;
+    margin-top: 30px;
+}
+
+.left-heading h1{
+    margin-left: 70px;
+    color: #fff;
+    font-family: "red rose";
+    font-size: 57px;
+    width: 550px;
+}
+
+.left-heading p{
+    color: #fff;
+    font-family: "red rose";
+    font-size: 18px;
+    width: 450px;
+}
+
+.image{
+    margin-top: 30px;
+}
+
+.law{
+    width: 99vw;
+    height: 50vh;
+}
+
+.fa-circle-chevron-left{
+    color: rgb(113, 86, 18);
+    
+
+}
+
+.bottom-arrows h1{
+    letter-spacing: 30px;
+   text-align: right;
+   color: #82700d;
+}
+
